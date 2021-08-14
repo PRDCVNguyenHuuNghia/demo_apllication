@@ -1,4 +1,4 @@
-AC_INIT([Hello world], 1.0)
+AC_INIT([Hello Nghianh], 1.0)
 AM_INIT_AUTOMAKE
 AC_PROG_CC
 AC_CONFIG_MACRO_DIR([m4])
